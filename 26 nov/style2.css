@@ -1,0 +1,32 @@
+.head1{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+}
+.head2{
+    font-family: "Sevillana", cursive;
+    text-align: center;
+}
+.head3{
+    font-family: "Bokor", system-ui;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style:dashed;
+}
+.wrapper{
+    background-color: plum;
+    padding: 20px;
+}
+.wrapper button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    
+}
+.wrapper h2{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    text-decoration-style: solid ;
+    text-decoration-color: black;
+}
+

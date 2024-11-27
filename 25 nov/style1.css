@@ -1,0 +1,30 @@
+#head1{font-size: 50px;
+color: aqua;
+text-decoration: underline;
+background-color: black;
+text-decoration-color:rosybrown ;
+text-decoration-style: wavy ;
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;}
+.para{font-weight: bold;}
+#head2{text-shadow: -3px -4px 2px green;
+font-size: 50px;
+text-transform:uppercase;
+text-align: center;}
+.container{ background-color: rgb(0, 250, 208);}
+.container button{
+    background-color: rgb(255, 0, 0);
+    color: whitesmoke;}
+.container h1{color:red;}
+#head3{
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 60px;
+    text-decoration-color: rgb(65, 6, 242);
+    text-decoration-style:wavy ;}
+.para2{
+    font-style: italic;
+    font-weight: bolder;
+    color: blue;}
+
