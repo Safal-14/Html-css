@@ -1,0 +1,33 @@
+.head_container{
+    margin-top: 90px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    background: whitesmoke;
+}
+#but1{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    border: red;
+}
+#but2{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    
+    border-radius: 10px;
+    border: blue;
+    
+}
+.head_container h1{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 45px;
+    margin-top: 25px;
+}
+.head_container p{
+    margin-top: 0px;
+}

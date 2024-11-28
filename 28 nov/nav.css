@@ -1,0 +1,20 @@
+*{
+    margin: 9px;
+    padding: 0;
+}
+
+.navbar{
+    background-color: violet;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50px;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    list-style: none;
+    font-style: italic;
+    font: bolder;
+}

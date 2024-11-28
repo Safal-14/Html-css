@@ -1,0 +1,16 @@
+.main_container{
+    background-color: aquamarine;
+    display: flex;
+    margin: 35px;
+    justify-content: space-evenly;
+    align-items: center;   
+}
+.main_container button{
+    background-color: red;
+    color: white;
+    border: red;
+    border-radius: 10px;
+}
+.ch2{
+    padding: 55px;
+}
