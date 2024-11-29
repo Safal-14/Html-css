@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+}
+.main1{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    padding:15px ;
+    font-family: "Inconsolata", monospace;
+}
+.para1{
+    margin: 120px;;
+    font-size: 30px;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    width: fit-content;
+}
+.Cafe{
+    background-color: black;
+    color: aliceblue;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    border-radius:45px;
+}
+.coffee{
+    display: flex;
+    justify-content: center;
+}
+.add{
+    margin-top: 25px;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 45px;
+    font-family: "Inconsolata", monospace;
+}
+.eat{
+    text-align:left;
+    font-family: "Inconsolata", monospace;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    width: fit-content;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 25px;
+    padding: 30px;
+    padding-top: 25px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.308);
+}
+.img2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.loc{
+    font-family: "Inconsolata", monospace;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 45px;
+}
+.p2{
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    margin-top: 40px;
+    font-size: large;
+}
+.map{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.service{
+    margin: 70px;;
+    font-size: 30px;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    width: fit-content;
+}
+.rev{
+    margin-top: 20px;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+}
+.in{
+    padding-left: 445px;
+}
+.in2{
+    padding-left: 445px;
+    margin-top: 15px;
+}
+.in3{
+    padding-left: 685px;
+    margin-top: 15px;
+}
+.in4{
+    padding-left: 445px;
+    margin-top: 15px;
+}
+.btn3{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font-size: large;
+    margin-top: 25px;
+    margin-left:445px ;
+    margin-bottom: 10px;
+    font-family: "Inconsolata", monospace;
+}
+.head1{
+    background-color: rgb(216, 208, 209);
+}
