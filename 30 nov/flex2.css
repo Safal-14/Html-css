@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    flex-wrap: wrap-reverse;
+}
+.ch{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    border: 5px solid;
+}
+.ch1{
+    background-color: aqua;
+}
+.ch2{
+    background-color: aquamarine;
+}
+.ch3{
+    background-color: blue;
+}
