@@ -1,0 +1,43 @@
+
+var ftGUID_7970655="61497D6FA99564";
+var ftConfID_7970655="0";
+var ftParams_7970655="ftOBA=1&ft_domain=templatemo.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https://templatemo.com/live/templatemo_589_lugx_gaming;https%3A%2F%2Ftemplatemo.com%2Flive%2Ftemplatemo_589_lugx_gaming&gdpr=0&us_privacy=${US_PRIVACY}&site_url=https://templatemo.com/live/templatemo_589_lugx_gaming&pub_id=1&sup_platform=1&cachebuster=615473.9924525195&ft_keyword=DV360CampID:__20935332892__&ft_section=DV360CampID:20935332892&ft_partnerimpid=ABAjH0iMkJOsX48QJ3AsiL2T8UZr";
+var ftKeyword_7970655="";
+var ftCustom_7970655="";
+var ftSection_7970655="DV360CampID:20935332892";
+var ftSegment_7970655="";
+var ftSegmentList_7970655=[];
+var ftRuleMatch_7970655="0";
+var ftTimestamp_7970655="1733328249";
+var ftGeoC2_7970655="in";
+var ftGeoState_7970655="mp";
+var ftGeoCity_7970655="bhopal";
+var ftISP_7970655="reliance jio infocomm limited";
+var ftSpeed_7970655="mobile";
+var ftConnType_7970655="mobile";
+var ftDMA_7970655="-1";
+var ftLong_7970655="77.41";
+var ftLat_7970655="23.31";
+var ftPostal_7970655="462038";
+var ftTimeZone_7970655="+530";
+var ftMobileCarrier_7970655="jio";
+var ftImp7970655 = {};
+ftImp7970655.privacy = "x";
+ftImp7970655.guidAge = "33";
+ftImp7970655.impID = "882B188D-C0DA-6C94-DF32-87A32EBDFB09";
+ftImp7970655.duid = "FT:61497D6FA99564";
+
+ftImp7970655.ft_tpplid = "";
+ftImp7970655.ft_c = {};
+ftImp7970655.gdpr = "0";
+ftImp7970655.gdpr_consent = "";
+ftImp7970655.gdpr_pd = "";
+ftImp7970655.oob_consent = "";
+ftImp7970655.gdprStoredConsent = "";
+ftImp7970655.us_privacy = "!!US_PRIVACY!";
+ftImp7970655.gpc = "";
+
+ftImp7970655.jsAppend = "1";
+var ftCreativeId_7970655 = "4919213";
+(function(){var tag=document.getElementById("ft_servedby_7970655")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7970655";js.setAttribute("name","ftscript_m7970655");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7970655");
+
