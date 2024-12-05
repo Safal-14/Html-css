@@ -3,6 +3,8 @@
     justify-content: space-around;
     background-color: rgb(29, 140, 238);
     text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 .bar h1{
     margin-right: 495px;
@@ -17,15 +19,16 @@
 }
 .main{
     background-color: rgb(29, 140, 238);
-    border-bottom-left-radius: 195px;
-    border-bottom-right-radius: 195px;
+    border-bottom-left-radius: 295px;
+    border-bottom-right-radius: 295px;
 }
 .wel{
-    margin-top: 65px;
+    margin-top: 165px;
 }
 .wel h2{
     font-size: 20px;
     margin-left: 50px;
+    margin-top: 135px;
 }
 .wel h1{
     font-size: 35px;
@@ -34,8 +37,8 @@
 .para{
     display: flex;
     justify-content: space-around;
-    margin-top: 100px;
-    padding-bottom: 200px;
+    margin-top:0px;
+    padding-bottom: 110px;
 }
 .wel p{
     margin-left: 50px;
@@ -48,4 +51,84 @@
     border-radius: 20px;
     border: coral;
     margin-top: 20px;
+}
+.four{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+.one{
+    background-color: aliceblue;
+    color: black;
+    padding: 65px;
+    border-radius: 35px;
+}
+.two{
+    background-color: aliceblue;
+    color: black;
+    padding: 80px;
+    border-radius: 35px;
+}
+.three{
+    background-color: aliceblue;
+    color: black;
+    padding: 65px;
+    border-radius: 35px;
+}
+.five{
+    background-color: aliceblue;
+    color: black;
+    padding: 65px;
+    border-radius: 35px;
+}
+.trend{
+    color: orange;
+    margin-top: 180px;
+    margin-left: 90px;
+}
+.trend2{
+    margin-left: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.pictures{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.assi{
+    background-color: beige;
+    color: black;
+    padding: 15px;
+}
+.trend2 button{
+    background-color: orange;
+    color: whitesmoke;
+    border-radius: 35px;
+    padding-right: 30px;
+    padding-left:30px;
+    margin-right: 85px;
+    border: orange;
+    font: bolder;
+}
+.img{
+    color: orange;
+    margin-top: 200px;
+    margin-left: 90px;
+    font: 20px;
+}
+.img2{
+    margin-top: 5px;
+    margin-left: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.img2 button{
+    background-color: orange;
+    color: whitesmoke;
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left:35px;
+    margin-right: 85px;
+    border: orange;
 }
