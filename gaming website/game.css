@@ -61,7 +61,9 @@
     background-color: black;
     color: aliceblue;
     padding: 50px;
-    margin-top: 25px;
+    margin-top: 150px;
+    border-top-left-radius: 85px;
+    border-top-right-radius: 85px;
 }
 .h1{
     font-family: "Josefin Sans", sans-serif;
