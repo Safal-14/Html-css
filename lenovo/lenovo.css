@@ -62,15 +62,14 @@
     border-radius: 40px;
 }
 .well{
-    margin-top: 150px;
-    margin-left: 120px;
+    margin-top: 100px;
 }
 .para1{
-    margin-top: 30px;
-    font-size: 15px;
+    margin-top: 50px;
+    font-size: 20px;
 }
 .well h1{
-    margin-top: 50px;
+    margin-top: 30px;
     font-size: 70px;
 }
 .para{
@@ -82,5 +81,5 @@
 }
 #intel{
     border-radius: 20px;
-    margin-top: 90px;
+    margin-top: 80px;
 }
