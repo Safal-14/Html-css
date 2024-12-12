@@ -163,3 +163,51 @@
 .color{
     background-color: red;
 }
+.div{
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+.div .btn{
+    position: absolute;
+    top: 52%;
+    left: 170%;
+    transform: translate(-50% -50%);
+    padding: 10px;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
+    border: whitesmoke;
+}
+.div .text{
+    position: absolute;
+    top: 40%;
+    left: 125%;
+    height: 0px;
+    width: 680px;
+    color: whitesmoke;
+    font-size: 70px;
+}
+.groups{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+#border{
+    border-radius: 30px;
+}
+.groups{
+    position: relative;
+}
+.groups .text1{
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    color: whitesmoke;
+}
+.groups .text2{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    color: whitesmoke;
+}
