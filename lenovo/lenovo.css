@@ -192,6 +192,8 @@
     display: flex;
     justify-content: space-evenly;
     margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 #border{
     border-radius: 30px;
@@ -201,13 +203,291 @@
 }
 .groups .text1{
     position: absolute;
-    top: 3%;
-    left: 5%;
+    top: 5%;
+    left: 3%;
     color: whitesmoke;
 }
 .groups .text2{
     position: absolute;
     top: 10%;
-    left: 5%;
+    left: 3%;
     color: whitesmoke;
+    font-size: 40px;
+}
+.groups .btn1{
+    position: absolute;
+    top: 85%;
+    left: 4%;
+    color: black;
+    background-color: white;
+    border: white;
+    border-radius: 20px;
+    width: 200px;
+    padding: 15px;
+}
+.groups .text3{
+    position: absolute;
+    top: 5%;
+    left: 37%;
+    color: whitesmoke;
+}
+.groups .text4{
+    position: absolute;
+    top: 10%;
+    left: 37%;
+    color: whitesmoke;
+    font-size: 40px;
+}
+.groups .btn2{
+    position: absolute;
+    top: 85%;
+    left: 37%;
+    color: black;
+    background-color: white;
+    border: white;
+    border-radius: 20px;
+    width: 200px;
+    padding: 15px;
+}
+.groups .text5{
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    color: whitesmoke;
+}
+.groups .text6{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    color: whitesmoke;
+    font-size: 40px;
+}
+.groups .btn3{
+    position: absolute;
+    top: 85%;
+    left: 70%;
+    color: black;
+    background-color: white;
+    border: white;
+    border-radius: 20px;
+    width: 200px;
+    padding: 15px;
+}
+.girl2{
+    margin-top: 15px;
+    position: relative;
+}
+.girl2 .button{
+    position: absolute;
+    top: 52%;
+    left: 45%;
+    transform: translate(-50% -50%);
+    padding: 10px;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
+    border: whitesmoke;
+}
+.girl2 .access{
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    height: 0px;
+    width: 700 px;
+    color: whitesmoke;
+    font-size: 60px;
+}
+.lappy{
+    position: relative;
+}
+.lappy .top{
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    color: whitesmoke;
+    font-size: 60px;
+}
+.lappy .top1{
+    position: absolute;
+    top: 20%;
+    left: 39%;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.lappy .top2{
+    position: absolute;
+    top: 29%;
+    left: 43%;
+    color: whitesmoke;
+    font-size: 30px ;
+}
+.lappy .top3{
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.lappy .top4{
+    position: absolute;
+    top: 53%;
+    left: 38%;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.lappy .top5{
+    position: absolute;
+    top: 65%;
+    left: 47%;
+    color: black;
+    border: white;
+    width: 120px;
+    padding: 10px;
+}
+.images{
+    position: relative;
+}
+.images .top6{
+    position: absolute;
+    top: 5%;
+    left: 4%;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.images .top7{
+    position: absolute;
+    top: 12%;
+    left: 4%;
+    color: whitesmoke;
+    font-size: 45px;
+}
+.images .top8{
+    position: absolute;
+    top: 80%;
+    left: 4%;
+    border: white;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 15px;
+}
+.images .top9{
+    position: absolute;
+    top: 5%;
+    left: 37%;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.images .top10{
+    position: absolute;
+    top: 12%;
+    left: 37%;
+    color: whitesmoke;
+    font-size: 45px;
+}
+.images .top11{
+    position: absolute;
+    top: 80%;
+    left: 37%;
+    border: white;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 15px;
+}
+.images .top12{
+    position: absolute;
+    top: 5%;
+    left: 69%;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.images .top13{
+    position: absolute;
+    top: 12%;
+    left: 69%;
+    color: whitesmoke;
+    font-size: 45px;
+}
+.images .top14{
+    position: absolute;
+    top: 80%;
+    left: 69%;
+    border: white;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 15px;
+}
+.banner{
+    position: relative;
+}
+.banner .second{
+    position: absolute;
+    top: 5%;
+    left: 4%;
+    color: white;
+}
+.banner .second1{
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    color: white;
+    font-size: 80px;
+}
+.banner .second2{
+    position: absolute;
+    top: 49%;
+    left: 4%;
+    color: white;
+}
+.banner .second3{
+    position: absolute;
+    top: 5%;
+    left: 8%;
+    color: white;
+    font-size: 18px;
+}
+.banner .second4{
+    position: absolute;
+    top: 11%;
+    left: 8%;
+    color: white;
+    font-size: 40px;
+}
+.banner .second5{
+    position: absolute;
+    top: 22%;
+    left: 8%;
+    color: white;
+}
+.rank3{
+    position: relative;
+}
+.rank3 .third{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    color: whitesmoke;
+}
+.rank3 .third1{
+    position: absolute;
+    top: 35%;
+    left: 26%;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.rank3 .third2{
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+.rank3 .third4{
+    position: absolute;
+    top: 63%;
+    left: 46%;
+    padding: 10px;
+    border-radius: 20px;
+    border: white;
+    font-size: 20px;
 }
