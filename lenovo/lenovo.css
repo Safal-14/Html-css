@@ -491,3 +491,90 @@
     border: white;
     font-size: 20px;
 }
+.get{
+    margin-top: 30px;
+    font-size: 45px;
+    margin-left: 25px;
+}
+.get1{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(251, 242, 242);
+    padding: 30px;
+}
+.get1 .last2{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 150px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+}
+.get1 .last5{
+    margin-top: 70px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 150px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+}
+.get1 .last8{
+    margin-top: 70px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 150px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+}
+.get1 .last1{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+.get1 .last4{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+.get1 .last7{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+.get1 .last{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+.get1 .last3{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+.get1 .last6{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+#pictures3{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.head1{
+    background-color: white;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.extreme{
+    margin-top: 60px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+.extreme1{
+    background-color: gainsboro;
+    padding: 250px;
+}
