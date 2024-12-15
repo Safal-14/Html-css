@@ -170,7 +170,7 @@
 }
 .div .btn{
     position: absolute;
-    top: 52%;
+    top: 49%;
     left: 170%;
     transform: translate(-50% -50%);
     padding: 10px;
@@ -182,11 +182,11 @@
 .div .text{
     position: absolute;
     top: 40%;
-    left: 125%;
+    left: 120%;
     height: 0px;
     width: 680px;
     color: whitesmoke;
-    font-size: 70px;
+    font-size: 60px;
 }
 .groups{
     display: flex;
@@ -279,7 +279,7 @@
 }
 .girl2 .button{
     position: absolute;
-    top: 52%;
+    top: 50%;
     left: 45%;
     transform: translate(-50% -50%);
     padding: 10px;
@@ -291,11 +291,11 @@
 .girl2 .access{
     position: absolute;
     top: 40%;
-    left: 33%;
+    left: 35%;
     height: 0px;
     width: 700 px;
     color: whitesmoke;
-    font-size: 60px;
+    font-size: 50px;
 }
 .lappy{
     position: relative;
@@ -366,8 +366,9 @@
     top: 80%;
     left: 4%;
     border: white;
-    border-radius: 30px;
-    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
     padding: 15px;
 }
 .images .top9{
@@ -389,8 +390,9 @@
     top: 80%;
     left: 37%;
     border: white;
-    border-radius: 30px;
-    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
     padding: 15px;
 }
 .images .top12{
@@ -412,8 +414,9 @@
     top: 80%;
     left: 69%;
     border: white;
-    border-radius: 30px;
-    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
     padding: 15px;
 }
 .banner{
@@ -486,10 +489,10 @@
     position: absolute;
     top: 63%;
     left: 46%;
-    padding: 10px;
-    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
     border: white;
-    font-size: 20px;
 }
 .get{
     margin-top: 30px;
@@ -566,8 +569,7 @@
 }
 .head1{
     background-color: white;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
+    border-radius: 30px;
 }
 .extreme{
     margin-top: 60px;
