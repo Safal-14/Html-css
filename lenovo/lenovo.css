@@ -10,6 +10,7 @@
     color: whitesmoke;
     margin-top: 40px;
     margin-left: 20px;
+    padding: 5px;
 }
 .products{
     display: flex;
@@ -51,6 +52,7 @@
     display: flex;
     justify-content: space-evenly;
     margin-top: 50px;
+    font-family: "Josefin Sans", serif;
 }
 #img1{
     border-radius: 40px;
@@ -67,13 +69,16 @@
 .para1{
     margin-top: 50px;
     font-size: 20px;
+    font-family: "Josefin Sans", serif;
 }
 .well h1{
     margin-top: 30px;
     font-size: 70px;
+    font-family: "Josefin Sans", serif;
 }
 .para{
     font: bolder;
+    font-family: "Josefin Sans", serif;
 }
 .intel{
     display: flex;
@@ -87,6 +92,7 @@
 }
 .banner{
     margin-top: 80px;
+    font-family: "Nunito Sans", serif;
 }
 #pic{
     border-radius: 30px;
@@ -106,6 +112,7 @@
     display: flex;
     justify-content: space-evenly;
     padding: 30px;
+    font-family: "Nunito Sans", serif;
 }
 .bg1 p{
     margin-top: 35px;
@@ -126,6 +133,7 @@
     display: flex;
     justify-content: space-evenly;
     margin-top: 35px;
+    font-family: "Nunito Sans", serif;
 }
 .three h1{
     margin-top: 20px;
@@ -145,6 +153,7 @@
     background-color: white;
     margin: 50px;
     border-radius: 60px;
+    font-family: "Nunito Sans", serif;
 }
 .laptop p{
     margin-top: 30px;
@@ -167,6 +176,7 @@
     position: relative;
     width: 100%;
     max-width: 400px;
+    font-family: "Nunito Sans", serif;
 }
 .div .btn{
     position: absolute;
@@ -324,16 +334,18 @@
 .lappy .top3{
     position: absolute;
     top: 45%;
-    left: 35%;
+    left: 33%;
     color: whitesmoke;
     font-size: 50px;
+    font-family: "Josefin Sans", serif;
 }
 .lappy .top4{
     position: absolute;
     top: 53%;
-    left: 38%;
+    left: 37%;
     color: whitesmoke;
     font-size: 50px;
+    font-family: "Josefin Sans", serif;
 }
 .lappy .top5{
     position: absolute;
@@ -343,6 +355,8 @@
     border: white;
     width: 120px;
     padding: 10px;
+    border-radius: 5px;
+    font: bolder;
 }
 .images{
     position: relative;
@@ -437,7 +451,7 @@
 }
 .banner .second2{
     position: absolute;
-    top: 49%;
+    top: 55%;
     left: 4%;
     color: white;
 }
@@ -463,6 +477,7 @@
 }
 .rank3{
     position: relative;
+    font-family: "Nunito Sans", serif;
 }
 .rank3 .third{
     position: absolute;
