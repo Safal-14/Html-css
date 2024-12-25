@@ -3,9 +3,11 @@
 }
 .pass{
     padding: 10px;
+    border-radius: 5px;
 }
 .email{
     padding: 10px;
+    border-radius: 5px;
 }
 .login{
     display: flex;
@@ -22,6 +24,8 @@
     color: aliceblue;
     font: larger;
     font: bolder;
+    font-family: "Inter", serif;
+    font-size: 20px;
 }
 .details{
     margin-top: 120px;
@@ -41,11 +45,7 @@
     margin-left: 80px;
     font-size: 25px;
     margin-top: 20px;
-}
-.details p{
-    margin-left: 120px;
-    margin-top: 15px;
-    color: blue;
+    font-family: "Inter", serif;
 }
 .facebook h1{
     color: blue;
@@ -54,7 +54,14 @@
     margin-left: 250px;
 }
 .facebook p{
-    margin-top: 0px;
+    margin-top: 5px;
     font-size: 25px;
     margin-left: 250px;
+}
+.btn3{
+    margin-left: 130px;
+    margin-top: 15px;
+    color: blue;
+    background-color: white;
+    border: white;
 }
