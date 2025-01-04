@@ -1,0 +1,50 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    color: blue;
+    font: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-style: italic;
+}
+.para1{
+    color: red;
+    font: bolder;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para{
+    font: bolder;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home{
+    font-size: 30px;
+    text-decoration: none;
+    color: green;
+}
+.home:hover{
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+    color: red;
+}
+.aboutus{
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 20px;
+    color: green;
+}
+.aboutus:hover{
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+    color: red;
+}
