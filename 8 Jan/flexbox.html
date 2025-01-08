@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="flex.css">
+    <style>
+        .container{
+            display: flex;
+            /*flex-direction: column;*/
+            /*flex-direction: column-reverse;*/
+            /*flex-direction: row;*/
+            /*flex-direction: row-reverse;*/
+            background-color: lightblue;
+            /*flex-wrap: wrap;*/
+            /*flex-wrap: nowrap;*/
+            /*flex-wrap: wrap-reverse;*/
+            /*flex-flow: row wrap;*/
+            /*justify-content:space-between;*/
+            /*justify-content: flex-end;*/
+            justify-content: flex-start;
+        }
+        .container > div{
+            background-color: aliceblue;
+            margin: 10px;
+            padding: 20px;
+            font-size: 20px;
+            text-align: center;
+            line-height: 75px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+    </div>
+    /*<div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+        <div>9</div>
+        <div>10</div>
+        <div>11</div>
+        <div>12</div>*/
+</body>
+</html>

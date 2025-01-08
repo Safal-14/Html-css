@@ -1,0 +1,35 @@
+.div{
+    box-shadow: 4px 8px 5px 10px pink;
+    border: 10px dashed black;
+    font-size: 30px;
+    padding: 10px;
+    margin: 25px;
+    background-origin: padding-box;
+}
+.div1{
+    box-shadow: -4px -8px 5px 10px red inset;
+    border:10px dashed black;
+    font-size: 30px;
+    padding: 40px;
+    margin: 25px;
+    background-origin: content-box;
+}
+.div2{
+    box-shadow: 5px 10px blue inset;
+    border:10px dashed black;
+    font-size: 30px;
+    padding: 10px;
+    margin: 25px;
+    background-origin: border-box;
+}
+body{
+    background-image: url(iapd.png);
+    background-repeat: no-repeat;
+    background-position:right center;
+}
+.img{
+    background-image: url(Black\ cat.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-origin: padding-box;
+}
