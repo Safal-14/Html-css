@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #mydiv{
+            width: 100%;
+            position: absolute;
+            height: 300px;
+            background-color: white;
+        }
+        #mydiv div{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            background-color: yellow;
+            border: 5px solid;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div id="mydiv">
+        <div id="mybox">Safal</div>
+        <div style="top: 20px; left: 20px; z-index: 0;">z-index0</div>
+        <div style="top: 40px; left: 40px; z-index: 1;">z-index1</div>
+        <div style="top: 60px; left: 60px; z-index: 2;">z-index2</div>
+        <div style="top: 80px; left: 80px; z-index: 3;">z-index3</div>
+    </div>
+</body>
+</html>
