@@ -160,3 +160,55 @@
 .orange h2{
     font-size: 20px;
 }
+.deal2{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.inside{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -20px;
+}
+.orange1{
+    height: fit-content;
+    margin-top: 115px;
+}
+.inside h3{
+    margin-left: -150px;
+}
+.Flat{
+    background-color: rgb(250, 250, 250);
+    width: fit-content;
+    padding: 25px;
+    font-size: 25px;
+    box-shadow: -10px 10px 100px grey;
+    border-radius: 25px;
+}
+.hfour{
+    padding-left: 30px;
+}
+.height{
+    padding-left: 55px;
+}
+.hfive{
+    padding-left: 30px;
+}
+.hsix{
+    padding-left: 25px;
+}
+.hseven{
+    padding-left: 20px;
+}
+.info{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.extra p{
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: start;
+}
+.extra h4{
+    font-size: 20px;
+}
