@@ -330,6 +330,7 @@
 }
 .flex{
     flex-wrap: wrap;
+    font-family: "Poppins", serif ;
 }
 .fuor button{
     background-color: black;
